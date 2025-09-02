@@ -2,7 +2,7 @@
 
 DocuMind is an **AI-powered platform** that lets you upload documents, extract knowledge, and ask natural language questions to retrieve answers instantly.  
 
-It implements an end-to-end **Retrieval-Augmented Generation (RAG)** system using **Large Language Models (LLMs)**, embeddings, and vector databases — combined with a modern **React + Tailwind + shadcn/ui** frontend and **AWS ECS cloud deployment** with CI/CD.
+It implements an end-to-end **Retrieval-Augmented Generation (RAG)** system using **Large Language Models (LLMs)**, embeddings, and vector databases — combined with a modern **Streamlit** frontend and **AWS ECS cloud deployment** with CI/CD.
 
 This project demonstrates practical skills in **AI**, **full-stack development**, and **MLOps** — making it a strong portfolio project for internships and jobs.
 
